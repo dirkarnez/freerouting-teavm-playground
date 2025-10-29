@@ -1,7 +1,10 @@
-teavm-gradle-playground
-=======================
+freerouting-teavm-playground
+============================
 - https://services.gradle.org/distributions/gradle-8.13-bin.zip
 - https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.26%2B4/OpenJDK11U-jdk_x64_windows_hotspot_11.0.26_4.zip
+
+### Notes
+- `InitializeCLI` from https://github.com/freerouting/freerouting/blob/master/src/main/java/app/freerouting/Freerouting.java#L309
 
 ### Gradle Documentation
 - [Installing Gradle](https://docs.gradle.org/current/userguide/installation.html#ex-installing-manually)
